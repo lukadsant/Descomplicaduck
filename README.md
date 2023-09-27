@@ -1,8 +1,12 @@
-# Descomplicando
+# Descomplicaduck
+![psyduck](https://github.com/lukadsant/Descomplicaduck/assets/68041537/0ff5daa6-1688-4cef-ac6c-0bb0a658b958)
+
+Essa ferramenta é baseada em uma extensão criada pablomtlima, como ela ficou fora do ar resolvi fazer umas modificações para fazer ela funcionar novamente.
 
 ## Se essa ferramenta te ajudou adicione uma estrela ⭐ aí não vai custar nadinha
 
 
+## instalação
 ![2023-04-27 (1)](https://user-images.githubusercontent.com/78696750/235035319-5735883f-a72c-44f5-a13c-62cffb9eb517.png)
 - Salve no seu pc e extraia a pasta
 
