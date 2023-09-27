@@ -1,0 +1,29 @@
+{
+    "manifest_version": 3,
+    "version": "1.0.0",
+    "name": "Pato Descomplicador",
+    "permissions": ["activeTab", "scripting"],
+    "description": "Depuração com pato de borracha OU (Rubber duck debugging) é algo que salva vidas sabia?",
+    "author": "@Lukadsant",
+    "icons": {
+        "16": "psyicon.png",
+        "32": "psyicon.png",
+        "48": "psyicon.png",
+        "128": "psyicon.png"
+      },
+
+    "action": {
+        "default_icon": "psyicon.png",
+        "default_title": "secreto",
+        "default_popup": "index.html"
+    },
+    "commands": {
+        "_execute_action": {
+          "suggested_key": {
+            "default": "Ctrl+B",
+            "mac": "Command+B"
+          }
+        }
+      }
+
+}
