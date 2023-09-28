@@ -1,33 +1,26 @@
 # Descomplicaduck
-![psyduck](https://github.com/lukadsant/Descomplicaduck/assets/68041537/0ff5daa6-1688-4cef-ac6c-0bb0a658b958)
-
 Essa ferramenta é baseada em uma extensão criada pablomtlima, como ela ficou fora do ar resolvi fazer umas modificações para fazer ela funcionar novamente.
 
-## Se essa ferramenta te ajudou adicione uma estrela ⭐ aí não vai custar nadinha
+![psyduck](https://github.com/lukadsant/Descomplicaduck/assets/68041537/0ff5daa6-1688-4cef-ac6c-0bb0a658b958)
 
 
-## instalação
-![2023-04-27 (1)](https://user-images.githubusercontent.com/78696750/235035319-5735883f-a72c-44f5-a13c-62cffb9eb517.png)
+
+
+## Instalação
+![image](https://github.com/lukadsant/Descomplicaduck/assets/68041537/74a29b26-3fd6-441d-a77f-6487eb0c129d)
+
 - Salve no seu pc e extraia a pasta
-
-## Após o Git Clone
 - Vá em chrome://extensions/
 - Ative o Modo do desenvolvedor
-
-![image](https://user-images.githubusercontent.com/78696750/235035515-8def1576-4745-470e-aa29-c18df4e6ccf1.png)
-
 - Clique em carreegar sem compactação
-
-![image](https://user-images.githubusercontent.com/78696750/235035558-a60a103d-1384-4ddf-b3b1-fc8cdef8206c.png)
-
 - Selecione a pasta onde está os arquivos clonados
+  
+![Animação](https://github.com/lukadsant/Descomplicaduck/assets/68041537/76627a15-a886-4e33-a066-e670f4c8631d)
 
-![image](https://user-images.githubusercontent.com/78696750/235035686-ba61e627-4108-4562-8e77-fc707eeaf9f5.png)
+## Usabilidade
+- Quando estiver na pagina da descomplica clique no icone da extensão e use os movementos do psyduck
 
-- Quando estiver na pagina da descomplica clique no icone da extensão
+![image](https://github.com/lukadsant/Descomplicaduck/assets/68041537/dedfb6e8-b148-4a66-a9b8-c74628785ae4)
 
-![image](https://user-images.githubusercontent.com/78696750/235035853-57dc0bf0-8321-48b1-acc2-d9e05c279088.png)
 
-![image](https://user-images.githubusercontent.com/78696750/235035779-b25900e5-ceed-444c-b0b8-30fb7d63a800.png)
-
-### Use com sabedoria
+## Se ela te ajudou adicione uma estrela ⭐ aí, isso não vai custar nadinha
